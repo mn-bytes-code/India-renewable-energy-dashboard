@@ -4,7 +4,7 @@ An interactive Tableau dashboard exploring how India's renewable energy generati
 
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/mehar.naaz/viz/IndiasRenewableEnergyGeneration2017-2025/Dashboard1)**
 
-![Dashboard screenshot](images/dashboard.png)
+![Dashboard screenshot](image/dashboard.png)
 
 ## Why I built this
 
